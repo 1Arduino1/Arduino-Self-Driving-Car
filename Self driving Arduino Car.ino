@@ -31,5 +31,5 @@ void loop() {
 void ultrasonic() {
   
 }
-//this code is designed for the Arduino UNO.
+//this code is designed for the Arduino UNO. THis is also designed for a two wheel Arduino Self Driving Car.
 //beware this code is not done yet.
